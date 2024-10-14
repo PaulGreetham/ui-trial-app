@@ -54,7 +54,7 @@ export default function RootLayout({
               <nav className="p-4">
                 <ul>
                   <li><a href="/" className="block p-2">Home</a></li>
-                  <li><a href="/about" className="block p-2">About</a></li>
+                  <li><a href="/graph" className="block p-2">Graph</a></li>
                   <li><a href="/services" className="block p-2">Services</a></li>
                   <li><a href="/contact" className="block p-2">Contact</a></li>
                   <li><a href="/" className="block p-2">Home</a></li>
